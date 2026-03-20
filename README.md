@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/26137024/README.2.md)
+
 # VeritasID — Frontend
 
 > **Your contributions, verified. Your identity, yours.**
